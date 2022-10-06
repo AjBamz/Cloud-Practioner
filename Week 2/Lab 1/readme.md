@@ -11,3 +11,7 @@
 Guide: 
 https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html
 https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-getting-started.html
+
+
+1. I reviewed my bills and usage
+
