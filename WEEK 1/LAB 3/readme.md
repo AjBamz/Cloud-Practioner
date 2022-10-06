@@ -21,3 +21,9 @@ At the end of the lab, you should perform clean up operations.
 Guides:
 
 https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_billing.html
+
+
+1. I activated access to billing data on your AWS test account
+2. I Create IAM policies that grant permissions to billing data
+3. I attached billing policies to your user groups
+4. I tested access to the billing console by logging into Ade's account
