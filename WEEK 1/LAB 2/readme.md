@@ -23,3 +23,7 @@ Your task in this lab is to create
 
 Guides:
 https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
+
+
+1. I created a group and added the new users and enforced a password policy.
+2. KIndly find the attached images. 
